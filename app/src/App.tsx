@@ -1,4 +1,3 @@
-// RRentals Web Application - Main App Component
 import { Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import AIChatBot from './components/AIChatBot';
